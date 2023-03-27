@@ -4,3 +4,5 @@ user can directly access to my website and where he can get option to register a
 use of react-router-dom to navigate through multiple pages
 
 use of recoil state management library to manange state globally
+
+use of localstorage to store data locally
